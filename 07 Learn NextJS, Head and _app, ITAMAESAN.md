@@ -41,4 +41,4 @@ In this way, if you forgot to put titles on the pages, you can use the Head comp
 This will allow you to put the title on all pages and also individually.
 
  - <- [06 Learn NextJS, cd news-app, ITAMAESAN](https://github.com/itamaesanorg/How-To-NextJS/blob/main/06%20Learn%20NextJS%2C%20cd%20news-app%2C%20ITAMAESAN.md)
- - -> [08 Learn NextJS, components, ITAMAESAN](https://github.com/itamaesanorg)
+ - -> [08 Learn NextJS, components, ITAMAESAN](https://github.com/itamaesanorg/How-To-NextJS/blob/main/08%20Learn%20NextJS%2C%20components%2C%20ITAMAESAN.md)

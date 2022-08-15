@@ -99,4 +99,4 @@ So in this case you will see on the beta version of the website, the following f
 Well this is a Javascript project, we will use js instead of tsx, but don't worry about it.
 
  - <- [07 Learn NextJS, Head and _app, ITAMAESAN](https://github.com/itamaesanorg/How-To-NextJS/blob/main/07%20Learn%20NextJS%2C%20Head%20and%20_app%2C%20ITAMAESAN.md)
- - -> [09 Learn NextJS, Head for SEO and Bento, ITAMAESAN](https://github.com/itamaesanorg)
+ - -> [09 Learn NextJS, Head for SEO and Bento, ITAMAESAN](https://github.com/itamaesanorg/How-To-NextJS/blob/main/09%20Learn%20NextJS%2C%20Head%20for%20SEO%20and%20Bento%2C%20ITAMAESAN.md)
