@@ -9,5 +9,5 @@ You will find the project here:
     - [Lab Excercise, News NextJS App](https://github.com/itamaesanorg/news-app)
 
 Navigate between ITAMAESAN LEARN with NextJS
- - <- [05 Learn NextJS, Create next, ITAMAESAN](https://github.com/itamaesanorg/How-To-NextJS/blob/main/05%20Learn%20NextJS%2C%20Project%20specs%2C%20ITAMAESAN.md)
- - -> [06 Learn NextJS, TITLE, ITAMAESAN](https://github.com/itamaesanorg)
+ - <- [04 Learn NextJS, Create next, ITAMAESAN](https://github.com/itamaesanorg/How-To-NextJS/blob/main/04%20Learn%20NextJS%2C%20Create%20next%2C%20ITAMAESAN.md)
+ - -> [06 Learn NextJS, cd news-app, ITAMAESAN](https://github.com/itamaesanorg/How-To-NextJS/blob/main/06%20Learn%20NextJS%2C%20cd%20news-app%2C%20ITAMAESAN.md)
