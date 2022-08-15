@@ -1,0 +1,2 @@
+While this is a project on the go, I have a few things to prepare for this lesson, stay tunned, and do not dishesitate to ask for help on Twitter:
+- -> [ITAMEASAN TWITTER](httpt://twitter.com/itameasanorg)
