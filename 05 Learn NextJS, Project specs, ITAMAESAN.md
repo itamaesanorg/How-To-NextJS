@@ -8,3 +8,4 @@ Then it will ask you for your nextjs project name and it will create a new proje
 You will find the project here:
     - [Lab Excercise, News NextJS App](https://github.com/itamaesanorg/SushiJS-News)
 
+[05 Learn NextJS, TITLE, ITAMAESAN](https://github.com/itamaesanorg)
