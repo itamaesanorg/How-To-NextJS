@@ -3,4 +3,5 @@ To ensure that we are using the latest version of create-next-app, we will run t
 
     npx create-next-app@latest
 
-[05 Learn NextJS, Create next, ITAMAESAN](https://github.com/itamaesanorg/How-To-NextJS/blob/main/05%20Learn%20NextJS%2C%20Project%20specs%2C%20ITAMAESAN.md)
+    <- [04 Learn NextJS, Create next, ITAMAESAN](https://github.com/itamaesanorg/How-To-NextJS/blob/main/04%20Learn%20NextJS%2C%20Create%20next%2C%20ITAMAESAN.md)
+    -> [05 Learn NextJS, Create next, ITAMAESAN](https://github.com/itamaesanorg/How-To-NextJS/blob/main/05%20Learn%20NextJS%2C%20Project%20specs%2C%20ITAMAESAN.md)
