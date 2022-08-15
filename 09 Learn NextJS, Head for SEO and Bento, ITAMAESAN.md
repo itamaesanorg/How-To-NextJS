@@ -103,4 +103,4 @@ This is Located at @picocss/pico/css/pico.classless.min.css from [PicoCSS](https
 
 
  - <- [08 Learn NextJS, components, ITAMAESAN](https://github.com/itamaesanorg/How-To-NextJS/blob/main/08%20Learn%20NextJS%2C%20components%2C%20ITAMAESAN.md)
- - -> [10 Learn NextJS, Fecth data, ITAMAESAN](https://github.com/itamaesanorg/How-To-NextJS/blob/main/10%20Learn%20NextJS%2C%20Writting...%2C%20ITAMAESAN.md)
+ - -> [10 Learn NextJS, Writting, ITAMAESAN](https://github.com/itamaesanorg/How-To-NextJS/blob/main/10%20Learn%20NextJS%2C%20Writting...%2C%20ITAMAESAN.md)
