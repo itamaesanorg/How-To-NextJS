@@ -91,7 +91,7 @@ PageLayout.js
 
 Styles, styles folder is for the global styles.
 - In this case we used CDN of picocss, Pico.css. Minimal CSS Framework for semantic HTML Elegant styles for all native HTML elements without .classes and dark mode automatically enabled.
-- This is Located at @picocss/pico/css/pico.classless.min.css from [PicoCSS](https://unpkg.com/browse/@picocss/pico@1.5.3/css/pico.classless.min.css)
+This is Located at @picocss/pico/css/pico.classless.min.css from [PicoCSS](https://unpkg.com/browse/@picocss/pico@1.5.3/css/pico.classless.min.css)
 
     @charset "UTF-8";/*!
     * Pico.css v1.5.3 (https://picocss.com)
