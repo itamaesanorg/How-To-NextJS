@@ -3,7 +3,7 @@ Then it will ask you for your nextjs project name and it will create a new proje
     Need to install the following dependencies:
     create-next-app@latest
     OK to install? [y/n] y
-    ? Next.js is your project name? my-app
+    ? Next.js is your project name? news-app
 
 You will find the project here:
     - [Lab Excercise, News NextJS App](https://github.com/itamaesanorg/news-app)
